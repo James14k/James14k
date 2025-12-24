@@ -1,3 +1,6 @@
+<br><br>
+# <div align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw5OTJtcHRmM2owcjlxajA1MWdzYmM1YnFqeTc4emI2Y20xemdzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ymwg2hvAKuuuiDN1x3/giphy.webp" width="75">Nice to See You</div>
+
 # ¡Hola! Soy Hawk 👋
 
 **Backend & Full Stack Developer** con base en Chile. Después de más de 5 años de experiencia como eléctrico, decidí volcar mi capacidad de resolución de problemas a mi verdadera pasión: el desarrollo de software.
