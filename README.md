@@ -3,7 +3,7 @@
 # <div align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw5OTJtcHRmM2owcjlxajA1MWdzYmM1YnFqeTc4emI2Y20xemdzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ymwg2hvAKuuuiDN1x3/giphy.webp" width="75">Soy Hawk 👋</div>
 
 
-**Backend & Full Stack Developer** con base en Chile. Después de más de 5 años de experiencia como eléctrico, decidí volcar mi capacidad de resolución de problemas a mi verdadera pasión: el desarrollo de software.
+**Ingeniero informatico especializado en el desarrollo de software(Backend & Full Stack Developer)**, actualmente con base en Chile y Argentina. Después de más de 5 años de experiencia como eléctrico, decidí volcar mi capacidad de resolución de problemas, lo cual me llevo a realizar un bootcamp de 6 meses, de ahí  me nació la pasión por el desarrollo de software, déspues de culminar el bootcamp,  queria seguir formandome profecionalmente entoces decidi matricularme en la carrera de ingeniería en informatica.
 
 ---
 
