@@ -3,7 +3,7 @@
 # <div align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw5OTJtcHRmM2owcjlxajA1MWdzYmM1YnFqeTc4emI2Y20xemdzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ymwg2hvAKuuuiDN1x3/giphy.webp" width="75">Soy Hawk Durant 👋,</div>
 
 
-**ingeniero informático con mención en el desarrollo de software, actualmente con base en las ciudades de Santiago (Chile) y Mendoza (Argentina). Después de más de 5 años de experiencia como electricista, decidí volcar mi capacidad de resolución de problemas al mundo tecnológico. Esto me llevó a realizar un bootcamp de 6 meses donde conocí el sector TI, el cual me encantó; especialmente por la satisfacción de resolver un bug después de tanto esfuerzo o ser capaz de solucionar problemas a través del código. Por ello, tras culminar el bootcamp, decidí matricularme en la carrera de Ingeniería en Informática en la Universidad DUOC UC (Chile) para seguir capacitándome profesionalmente en este sector.
+**ingeniero informático** con mención en el desarrollo de software, actualmente con base en las ciudades de Santiago (Chile) y Mendoza (Argentina). Después de más de 5 años de experiencia como electricista, decidí volcar mi capacidad de resolución de problemas al mundo tecnológico. Esto me llevó a realizar un bootcamp de 6 meses donde conocí el sector TI, el cual me encantó; especialmente por la satisfacción de resolver un bug después de tanto esfuerzo o ser capaz de solucionar problemas a través del código. Por ello, tras culminar el bootcamp, decidí matricularme en la carrera de Ingeniería en Informática en la Universidad DUOC UC (Chile) para seguir capacitándome profesionalmente en este sector.
 
 ---
 
@@ -20,10 +20,13 @@
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Swagger](https://img.shields.io/badge/-Swagger-%23C1E81C?style=for-the-badge&logo=swagger&logoColor=black) |
-| **Mobile** | ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white) ![Retrofit](https://img.shields.io/badge/-Retrofit-blue?style=for-the-badge) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| **DevOps/Test** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) |
+| **Backend** | ![Java](https://img.shields.io) ![Kotlin](https://img.shields.io) ![Spring](https://img.shields.io) ![Python](https://img.shields.io) ![Django](https://img.shields.io) ![JWT](https://img.shields.io) ![Auth](https://img.shields.io) ![Swagger](https://img.shields.io) |
+| **Mobile** | ![Jetpack Compose](https://img.shields.io) ![Material3](https://img.shields.io) ![Retrofit](https://img.shields.io) ![SQLite](https://img.shields.io) |
+| **Frontend** | ![React](https://img.shields.io) ![JavaScript](https://img.shields.io) ![Nodejs](https://img.shields.io) ![HTML](https://img.shields.io) ![CSS](https://img.shields.io) ![Bootstrap](https://img.shields.io) |
+| **Arquitectura** | ![Microservicios](https://img.shields.io) ![Monolítica](https://img.shields.io) |
+| **Base de datos** | ![MySQL](https://img.shields.io) ![PL/SQL](https://img.shields.io) |
+| **DevOps/Test** | ![AWS](https://img.shields.io) ![Jira](https://img.shields.io) ![Kubernetes](https://img.shields.io) ![Docker](https://img.shields.io) ![Git](https://img.shields.io) ![Maven](https://img.shields.io) ![JUnit5](https://img.shields.io) ![Mockito](https://img.shields.io) ![Mockk](https://img.shields.io) ![Jest](https://img.shields.io) ![Vitest](https://img.shields.io) ![Pytest](https://img.shields.io) ![Jasmine](https://img.shields.io) |
+
 
 ---
 
