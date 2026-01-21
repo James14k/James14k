@@ -1,9 +1,9 @@
 ![alt text](banner.jpeg)
 <br><br>
-# <div align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw5OTJtcHRmM2owcjlxajA1MWdzYmM1YnFqeTc4emI2Y20xemdzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ymwg2hvAKuuuiDN1x3/giphy.webp" width="75">Soy Hawk 👋</div>
+# <div align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw5OTJtcHRmM2owcjlxajA1MWdzYmM1YnFqeTc4emI2Y20xemdzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ymwg2hvAKuuuiDN1x3/giphy.webp" width="75">Soy Hawk Durant 👋,</div>
 
 
-**Ingeniero informático con mención en el desarrollo de software, actualmente con base en las ciudades de Santiago (Chile) y Mendoza (Argentina). Después de más de 5 años de experiencia como electricista, decidí volcar mi capacidad de resolución de problemas al mundo tecnológico. Esto me llevó a realizar un bootcamp de 6 meses donde conocí el sector TI, el cual me encantó; especialmente por la satisfacción de resolver un bug después de tanto esfuerzo o ser capaz de solucionar problemas a través del código. Por ello, tras culminar el bootcamp, decidí matricularme en la carrera de Ingeniería en Informática en la Universidad DUOC UC (Chile) para seguir capacitándome profesionalmente en este sector.
+**ingeniero informático con mención en el desarrollo de software, actualmente con base en las ciudades de Santiago (Chile) y Mendoza (Argentina). Después de más de 5 años de experiencia como electricista, decidí volcar mi capacidad de resolución de problemas al mundo tecnológico. Esto me llevó a realizar un bootcamp de 6 meses donde conocí el sector TI, el cual me encantó; especialmente por la satisfacción de resolver un bug después de tanto esfuerzo o ser capaz de solucionar problemas a través del código. Por ello, tras culminar el bootcamp, decidí matricularme en la carrera de Ingeniería en Informática en la Universidad DUOC UC (Chile) para seguir capacitándome profesionalmente en este sector.
 
 ---
 
