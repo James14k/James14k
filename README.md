@@ -3,20 +3,20 @@
 # <div align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw5OTJtcHRmM2owcjlxajA1MWdzYmM1YnFqeTc4emI2Y20xemdzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ymwg2hvAKuuuiDN1x3/giphy.webp" width="75">Soy Hawk 👋</div>
 
 
-**Ingeniero informatico especializado en el desarrollo de software(Backend & Full Stack Developer)**, actualmente con base en Chile y Argentina. Después de más de 5 años de experiencia como eléctrico, decidí volcar mi capacidad de resolución de problemas, lo cual me llevo a realizar un bootcamp de 6 meses, donde conocí el mundo de la programación, me encanto entonces déspues de culminar el bootcamp,  queria seguir formandome profecionalmente, decidi  matricularme en la carrera de ingeniería en informatica.
+**Ingeniero informatico especializado en el desarrollo de software(Full Stack Developer)**, actualmente con base en la ciudad de santiago, Chile y mendoza,Argentina. Después de más de 5 años de experiencia como eléctricista, decidí volcar mi capacidad de resolución de problemas, lo cual me llevo a realizar un bootcamp de 6 meses, donde conocí el mundo de la programación, me encanto entonces déspues de culminar el bootcamp,  queria seguir formandome profecionalmente, decidi  matricularme en la carrera de ingeniería en informatica en la universidad Duoc uc(chile).
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🏗️ **Especialidad:** Ecosistema Python, React, Java, Spring Boot y Kotlin.
+- 🏗️ **Especialidad:** Ecosistema Python, React, Java, Spring  y Kotlin.
 - 📱 **Mobile:** Desarrollo nativo con Jetpack Compose y arquitectura MVVM.
 - 🧪 **Calidad de Código:** Fuerte enfoque en Testing (JUnit, MockK, Mockito) y principios **Clean Code**.
 - 🗣️ **Idiomas:** Francés (Nativo), Español (Avanzado), Inglés (En aprendizaje).
 
 ---
 
-### 🖥️ Stack Tecnológico
+### 🖥️ Algunos de mi stack Tecnológico
 
 | Área | Tecnologías |
 | :--- | :--- |
@@ -31,7 +31,7 @@
 
 - 📚 Estudiando: **TypeScript, Node.js y Thymeleaf**.
 - 📋 Leyendo: **"Clean Code"** de Robert C. Martin.
-- 🤝 Buscando: Colaboraciones en proyectos desafiantes de código abierto o backend.
+- 🤝 Buscando: Colaboraciones en proyectos desafiantes de código abierto.
 
 ---
 
@@ -39,7 +39,7 @@
 
 - 📧 Email: [HawkDurant.jed@gmail.com](mailto:HawkDurant.jed@gmail.com)
 - 💼 LinkedIn: [[HawkDurant](https://www.linkedin.com/in/hawkdurant/)]
-- 🌐 Portafolio: *(En mantenimiento)*
+- 🌐 Portafolio:[[HawkDurant](https://portafolio-hawkdurant.netlify.app/)]
 
 ---
 
